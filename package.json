@@ -1,7 +1,7 @@
 {
   "name": "@responsivevoice/features",
   "version": "2.0.0",
-  "description": "Dashboard feature plugins for ResponsiveVoice (welcome message, speak links, etc.)",
+  "description": "Dashboard feature plugins for the ResponsiveVoice text-to-speech (TTS) platform",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -36,10 +36,11 @@
   },
   "keywords": [
     "responsivevoice",
-    "tts",
     "text-to-speech",
+    "tts",
+    "plugins",
     "dashboard",
-    "features"
+    "typescript"
   ],
   "author": "ResponsiveVoice, Inc. <support@responsivevoice.org>",
   "license": "MIT",
