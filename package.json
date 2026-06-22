@@ -40,6 +40,8 @@
     "tts",
     "plugins",
     "dashboard",
+    "accessibility",
+    "read-aloud",
     "typescript"
   ],
   "author": "ResponsiveVoice, Inc. <support@responsivevoice.org>",
