@@ -1,6 +1,6 @@
 {
   "name": "@responsivevoice/features",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Dashboard feature plugins for the ResponsiveVoice text-to-speech (TTS) platform",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -56,7 +56,7 @@
   "homepage": "https://github.com/responsivevoice/features#readme",
   "dependencies": {
     "@responsivevoice/text": "^2.0.0",
-    "@responsivevoice/types": "^2.0.0"
+    "@responsivevoice/types": "^2.0.1"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.18.3",
